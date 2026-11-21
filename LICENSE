@@ -1,0 +1,13 @@
+Copyright (c) 2026 Broodrix. All Rights Reserved.
+
+QuefeX, RHMoE, RHMoE-GDM, and associated documentation, names, file-format
+identifiers (.qhb, .qfx), and coined technical terms are proprietary to Broodrix.
+
+This repository contains PUBLIC CLAIM DOCUMENTATION only.
+Source code, trained weights, native kernels, and training data are NOT included
+and are NOT licensed for use, copying, modification, or distribution.
+
+Unauthorized reproduction of the proprietary software implementation is prohibited.
+
+For commercial or research inquiries, contact Broodrix via the channels listed
+on the associated GitHub or Hugging Face profile.

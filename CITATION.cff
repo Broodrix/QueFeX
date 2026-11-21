@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you reference this architecture class, please cite as below."
+title: "QuefeX: RHMoE — Recurrent Hypercube Mixture-of-Experts"
+authors:
+  - family-names: Broodrix
+    name-particle: ""
+type: software
+license: "Proprietary"
+version: "1.0.21-claim"
+date-released: "2026-11-21"
+abstract: >
+  Public claim documentation for QuefeX, an RHMoE (Recurrent Hypercube
+  Mixture-of-Experts) language model with optional RHMoE-GDM (Gated Delta
+  Memory), designed for phone-native training. Source and weights are not
+  publicly released.
+keywords:
+  - RHMoE
+  - QuefeX
+  - mixture-of-experts
+  - recurrent
+  - on-device
+  - gated-delta-memory
